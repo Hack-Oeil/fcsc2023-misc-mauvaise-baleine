@@ -42,12 +42,6 @@ Origine : [Mauvaise baleine](https://hackropole.fr/fr/challenges/misc/fcsc2023-m
 
 -----------
 
-## Connectez vous
-> http://localhost
-
-
------------
-
 
 ## Installation manuel
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
